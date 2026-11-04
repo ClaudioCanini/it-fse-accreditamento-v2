@@ -1,0 +1,19 @@
+{
+    "appVendor": "CLOUD_FIRST_SRL",
+    "appID": "CloudFirst_MMG",
+    "appVersion": "1.0.1",
+    "results": [
+        {
+            "id": 476,
+            "ts": "2026-11-03T08:22:12Z",
+            "traceId": "0531275472f2c53646fd10d9b1514ace",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.10.1.4.1.1.90774de2f0c9ebe502bc41c6e22a742ec39ae8358bbb6bce6528ddb27a916ce0.dfa534e0e4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 477,
+            "ts": "2026-11-03T08:22:14Z",
+            "traceId": "8fabf85940dff9deb65bd3aaf32ffd37",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.10.1.4.1.1.ef6adc72381d332a998c53873dea2c81377849f8a4ae6ce3c3b5c18f9ad1e4bf.6996eae154^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        }
+    ]
+}
